@@ -1,0 +1,3 @@
+# Wine-Quality-Detection
+
+Wine Quality Detection is a data science project which uses supervised learning algorithms to detect the quality of wine. The aim of this project is to build an efficient model to detect the quality of wine using the dataset obtained from UCI Machine Learning Repository. The dataset contains information such as the physicochemical properties of the wine, wine type, and other related information. This project will involve data pre-processing, feature engineering, and supervised learning model development and testing. The model will be trained on the dataset and tested on an independent dataset. The model should be able to detect the quality of wine with high accuracy.
